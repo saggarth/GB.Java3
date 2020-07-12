@@ -1,0 +1,27 @@
+17:28:22 [INFO ] <lesson6.server.Server:<init>:26> - Server is running
+17:31:53 [INFO ] <lesson6.server.Server:<init>:26> - Server is running
+17:32:14 [INFO ] <lesson6.server.Server:<init>:31> - Client is connected
+17:36:07 [INFO ] <lesson6.server.Server:<init>:26> - Server is running
+17:41:19 [INFO ] <lesson6.server.Server:<init>:26> - Server is running
+17:41:41 [INFO ] <lesson6.server.Server:<init>:31> - Client is connected
+17:43:08 [INFO ] <lesson6.server.Server:<init>:26> - Server is running
+17:43:14 [INFO ] <lesson6.server.Server:<init>:31> - Client is connected
+17:43:18 [INFO ] <lesson6.server.Server:getLOGGER:95> - User user1send message: test
+17:45:43 [INFO ] <lesson6.server.Server:<init>:31> - Client is connected
+17:45:55 [INFO ] <lesson6.server.Server:getLOGGER:95> - User user2send message: testt
+17:46:24 [INFO ] <lesson6.server.Server:<init>:26> - Server is running
+17:46:48 [INFO ] <lesson6.server.Server:getLOGGER:94> - Client is connected - user1
+17:47:10 [INFO ] <lesson6.server.Server:getLOGGER:94> - User user1 send message: test
+17:47:32 [INFO ] <lesson6.server.Server:getLOGGER:94> - Client is connected - user2
+17:57:34 [INFO ] <lesson6.server.Server:<init>:26> - Server is running
+17:57:46 [INFO ] <lesson6.server.Server:getLOGGER:94> - Client is connected - user1
+17:57:55 [INFO ] <lesson6.server.Server:getLOGGER:94> - Client is connected - user2
+17:57:58 [INFO ] <lesson6.server.Server:getLOGGER:94> - User user2 send message: test
+17:58:06 [INFO ] <lesson6.server.Server:getLOGGER:94> - Client lesson6.server.ClientHandler@5c523d1f is send PM to user1 : test
+17:58:29 [INFO ] <lesson6.server.Server:<init>:26> - Server is running
+17:58:43 [INFO ] <lesson6.server.Server:getLOGGER:94> - Client is connected - user1
+17:58:51 [INFO ] <lesson6.server.Server:getLOGGER:94> - Client is connected - user3
+17:58:55 [INFO ] <lesson6.server.Server:getLOGGER:94> - Client user3 is send PM to user1 : test
+18:00:29 [INFO ] <lesson6.server.Server:<init>:26> - Server is running
+18:00:39 [INFO ] <lesson6.server.Server:getLOGGER:94> - Client is connected - user1
+18:00:43 [INFO ] <lesson6.server.Server:getLOGGER:94> - Client user1 disconnected
